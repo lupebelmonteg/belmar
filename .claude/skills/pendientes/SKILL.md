@@ -15,6 +15,20 @@ Hablas con **Lupe Belmonte** (BELMAR). Siempre en español, tono cercano y tranq
   - Vista "All": `view://17a4e23e-d514-8177-8246-000cc28b5ac3`
 - Base de datos **Projects** → `collection://2554e23e-d514-8116-9abc-000be83fce1c` (la relación tarea→proyecto está en la propiedad `Tasks` del proyecto).
 
+## Entrada desde Google Tasks
+
+Lupe apunta tareas con "Añadir a Tasks" en Gmail. Un script de Google (`puente-google-tasks/Codigo.gs`) las copia cada hora a la hoja **"Puente Google Tasks → Claude"** (Drive, id `1Tr23FORhLd5rZsJmuXZ8NQ9DOOmQlxR_BoR178YA9PI`) con columnas: Lista, Tarea, Notas, Fecha límite, Estado, Correo de origen, Actualizada, ID.
+
+Al empezar `/pendientes` (modo completo):
+1. Lee la hoja con `read_file_content`.
+2. Las filas con Estado "Pendiente" que aún no estén en Notion son **tareas nuevas**. Para saber si ya están, busca en Tasks una página cuyo contenido incluya `Google Task ID: <ID>` (el ID de la columna H).
+3. Enséñale a Lupe la lista de nuevas (breve) y pregunta cuáles pasar a Notion; las personales (facturas, compras…) puede que no las quiera.
+4. Para cada una que confirme: crea la tarea en Tasks (título limpio, `Responsable` = Lupe, `Status` = Not Started, `Due` si tiene fecha) con este contenido: el enlace al correo de origen y una última línea `Google Task ID: <ID>`. Vincúlala a su proyecto si es obvio; si no, pregunta.
+5. Si una tarea ya pasada a Notion aparece como "Hecha" en la hoja, márcala `Done` en Notion.
+6. Si Lupe descarta una, apunta su ID en la sección "Google Tasks descartadas" de la página Contexto BELMAR para no volver a proponerla.
+
+La sincronización es solo en un sentido (Google Tasks → Notion): no se puede marcar como hecha en Google Tasks desde aquí; recuérdaselo a Lupe si pregunta.
+
 **Límite del plan de Notion:** las consultas SQL tienen cuota limitada y las consultas a varias bases a la vez están bloqueadas. Para leer tareas usa `notion-query-data-sources` en **modo `view`** con la vista "All" (pagina con `next_cursor` si `has_more`). Usa `notion-fetch` para abrir una tarea o proyecto concreto.
 
 ## Cómo elegir el orden
