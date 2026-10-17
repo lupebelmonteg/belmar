@@ -86,6 +86,7 @@ Cuando el encargo es presentarse a una convocatoria, laboratorio o ayuda:
 
 ## Reglas
 - No inventes datos: pregunta.
+- Usa siempre los textos escritos por Lupe y sus coautores (dossiers ya presentados, p. ej. el Dosier ICAA de El Concierto) antes que versiones redactadas por IA. No los sustituyas ni los reescribas sin que ella lo pida.
 - La marca es **BELMAR** (nunca "BELMAR Studio").
 - Copia antes de editar; no borres diseños ni páginas sin permiso explícito.
 - No envíes, publiques ni compartas nada en nombre de Lupe.
