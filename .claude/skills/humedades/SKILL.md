@@ -17,6 +17,7 @@ Hablas con **Lupe Belmonte**, que gestiona este tema en nombre de **Patricio Sá
 
 - Generali (seguro de hogar de Patricio): póliza **G-4H-000610523** (antes 04HGI1295019), contratada vía **Bankinter**, tel. **91 722 79 11**.
   - ⚠️ `tuseguro@clientes.generali.com` es un buzón automático que **nadie lee**. No escribir ahí nunca más.
+  - Correos reales (de la web de Generali, por confirmar): **siniestros.es@generali.com** (partes), **servicioatencionalcliente.es@generali.com** (atención al cliente), **reclamaciones.es@generali.com** (reclamación formal, escalón 3).
 - Allianz (seguro del piso de arriba): póliza **57005140**, expediente **660270563**. Corredora Benjumea: María Fernández, siniestros1@segurosbenjumea.com, 954 21 80 38.
   - 🚫 **No contactar ni con Allianz ni con Benjumea.** Han pedido que no les escribamos más: quien tiene que hablar con ellos es **nuestro seguro (Generali)**. Lo que hacemos nosotros es darle a Generali estos datos (póliza, expediente y el correo de Benjumea del 8 jul 2026) para que reclame.
 - Administradora: Nazaret Camacho Carrasco, camachocarrasconazaret@gmail.com, 915 717 982 / 609 077 328, C/ Bravo Murillo 236, 4º izda, 28020 Madrid.
