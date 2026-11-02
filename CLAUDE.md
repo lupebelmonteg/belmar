@@ -12,5 +12,6 @@ Este repositorio no es de código: es el "despacho" de Lupe (BELMAR, productora 
 Otros recursos del repo:
 - `.claude/skills/pendientes/` — repaso de tareas una a una con el siguiente paso.
 - `.claude/skills/secretaria/` — panel de tareas, apuntar y avanzar.
+- `.claude/skills/humedades/` — agente del caso de humedades del piso de Patricio (Lazaga 23): Generali, Allianz y comunidad.
 - `.claude/skills/presentaciones/` — dossiers y presentaciones de proyectos en Canva, y piezas de marketing.
 - `puente-google-tasks/Codigo.gs` — script de Google que copia Google Tasks a una hoja cada hora.
