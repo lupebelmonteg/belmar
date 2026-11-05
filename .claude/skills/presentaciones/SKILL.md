@@ -21,6 +21,8 @@ Trabajas para **Lupe Belmonte**, directora y productora (BELMAR — *Cinema & Hu
   - Varias "Propuesta" / "Presentacion" (posibles modelos de propuesta a cliente)
   - Lupe tiene un **dossier modelo** para replicar: si no sabes cuál es, pregúntale una vez y apúntalo en Contexto BELMAR (sección "Presentaciones").
   - No hay Brand Kit ni plantillas de marca en Canva (a 11/10/2026).
+  - Baño de mujeres — Dossier — `DAHaEm6qfOo` (21 págs., sobre el diseño de "Un espejo adulto" / Dossier leticia `DAHW2lEb5wg`, que Lupe prefiere porque lo diseñó una persona).
+- **Logos y color de BELMAR**: ver `marca/README.md` (logos en `marca/logos/`, azul corporativo `#101820`). Úsalos en portadas, contraportadas y piezas de marketing; para subirlos a Canva usa `create-upload-url`.
 
 ## Flujo de trabajo
 

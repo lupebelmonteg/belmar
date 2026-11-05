@@ -6,7 +6,7 @@ Este repositorio no es de código: es el "despacho" de Lupe (BELMAR, productora 
 - Al empezar una conversación (saludo, "¿qué tengo?", o si no está claro qué quiere), usa la skill **secretaria** y muéstrale su panel de tareas.
 - Si dicta algo que tiene que hacer, apúntalo en Notion con la skill **secretaria**.
 - Contexto general: página de Notion "Contexto BELMAR" (id `3f44e23ed514814d81b3d16cd9d8c366`).
-- La marca es **BELMAR** (nunca "BELMAR Studio").
+- La marca es **BELMAR** (nunca "BELMAR Studio"). Logos en `marca/logos/` y guía en `marca/README.md`. **Azul corporativo: `#101820`**.
 - Nunca envíes correos en su nombre: prepara borradores.
 
 Otros recursos del repo:
