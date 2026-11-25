@@ -13,4 +13,5 @@ Otros recursos del repo:
 - `.claude/skills/pendientes/` — repaso de tareas una a una con el siguiente paso.
 - `.claude/skills/secretaria/` — panel de tareas, apuntar y avanzar.
 - `.claude/skills/presentaciones/` — dossiers y presentaciones de proyectos en Canva, y piezas de marketing.
+- `.claude/skills/presupuesto-sencillo/` — plantilla de presupuesto en PDF de una página (estilo Civitatis/Digiocracy, con logo del cliente, color #74BBB5 y logo BELMAR TEAM).
 - `puente-google-tasks/Codigo.gs` — script de Google que copia Google Tasks a una hoja cada hora.

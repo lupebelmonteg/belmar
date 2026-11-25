@@ -1,0 +1,29 @@
+{
+  "salida": "/tmp/Presupuesto Civitatis - Enero 2027.pdf",
+  "titulo_pdf": "Presupuesto Civitatis - Enero 2027",
+  "cliente": "Civitatis",
+  "logo_cliente": "assets/clientes/civitatis.png",
+  "titulo": "Propuesta de cobertura para Civitatis",
+  "subtitulo": "Kick-off, CiviDay y FITUR   ·   Semana del 18 al 24 de enero de 2027",
+  "intro": "En enero acompañamos los tres grandes eventos de Civitatis: el Kick-off 2027 (lunes 18), el CiviDay (martes 19) y FITUR (del 20 al 24). Una semana intensa en la que cubrimos cada evento con el formato que necesita: solo vídeo, o vídeo y foto, y un vídeo resumen listo para LinkedIn y redes.",
+  "incluido": [
+    "Grabación de los tres eventos de la semana: Kick-off, CiviDay y FITUR",
+    "Vídeo resumen horizontal de 1 minuto de cada evento",
+    "Selección de fotos editadas de los mejores momentos del CiviDay (equipo de 2 personas)",
+    "Pago en dos veces: 50 % para reservar las fechas y 50 % con la entrega final"
+  ],
+  "inversion_nota": "Tarifas del año pasado, salvo el CiviDay, que este año es más largo y completo.",
+  "partidas": [
+    {"etiqueta": "EVENTO 1  ·  LUNES 18 DE ENERO", "nombre": "Kick-off 2027", "detalle": "Solo vídeo · de 14:00 a 18:00 · una persona", "precio": "700 €"},
+    {"etiqueta": "EVENTO 2  ·  MARTES 19 DE ENERO", "nombre": "CiviDay", "detalle": "Vídeo y foto · de 15:30 a 20:00 · Casa América · dos personas", "precio": "1.350 €"},
+    {"etiqueta": "EVENTO 3  ·  DEL 20 AL 24 DE ENERO", "nombre": "FITUR 2027", "detalle": "Solo vídeo · una jornada completa y otra de media jornada de refuerzo", "precio": "1.900 €"}
+  ],
+  "total": "3.950 €",
+  "iva": "+ IVA",
+  "enlaces": [
+    ["Instagram", "https://www.instagram.com/_lupebelmonte/"],
+    ["YouTube", "https://www.youtube.com/channel/UCqhblpt--yI7DeJJfoqpN2g"],
+    ["LinkedIn", "https://www.linkedin.com/in/lupebelmonte/"],
+    ["IMDB", "https://www.imdb.com/name/nm14600816/"]
+  ]
+}
